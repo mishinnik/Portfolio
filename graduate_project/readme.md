@@ -9,7 +9,7 @@
 - Seaborn
 ### Выводы
 - Подготовлена [презентация](https://disk.yandex.ru/i/eAXAkwOIkaG4Tw) для отдела маркетинга.
-## Часть 2: [Проект по А/B-тестированию](ab_test_final_proj.ipynb)
+## Часть 2: [Проект по А/B-тестированию](https://nbviewer.org/github/mishinnik/Portfolio/blob/main/graduate_project/ab_test_final_proj.ipynb)
 ### Описание проекта
 Требуется проанализировать корректность проведения A/B-теста и его результаты.
 ### Навыки и инструменты
